@@ -122,6 +122,8 @@ h5, h6          { font-weight: bolder }
 .listings ul.properties_list{
     list-style: none;
     overflow: hidden;
+	max-width: 500px;
+	margin: auto;
 }
 
 .listings ul.properties_list li{
